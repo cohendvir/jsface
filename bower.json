@@ -1,0 +1,22 @@
+{
+  "name": "jsface test",
+  "homepage": "https://github.com/dvir28491/jsface",
+  "authors": [
+    "Dvir Cohen <dvircohen100@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jsface": "~2.4.9"
+  }
+}
